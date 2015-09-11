@@ -44,6 +44,10 @@ setup(
     ],
     packages=['irclog2html'],
     package_dir={'': 'src'},
+    install_requires=[
+        'Whoosh',
+        'python-dateutil',
+    ],
     include_package_data=True,
     entry_points="""
         [console_scripts]
