@@ -4,6 +4,9 @@ irclog2html
 
 Converts IRC log files to HTML with pretty colours.
 
+.. image:: https://api.codeclimate.com/v1/badges/69a17f0c25cce7be1e2d/maintainability
+   :target: https://codeclimate.com/github/Shoobx/irclog2html/maintainability
+   :alt: Maintainability
 
 Quick start
 ===========
